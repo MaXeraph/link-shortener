@@ -8,8 +8,8 @@ Abusing free resources to shorten links - now with Java
 Java Spring RESTful Heroku Mongo/postgreSQL
 
 ## Goal
-Learn Java SpringBoot + Java technicalities in preperation for Uken Games (PEY)
-Maybe learn how to deploy on AWS 
+- Learn Java SpringBoot + Java technicalities in preperation for Uken Games (PEY)
+- Maybe learn how to deploy on AWS 
 
 ## Due
 April 1st 2020
